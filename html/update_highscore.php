@@ -52,4 +52,5 @@ echo json_encode($playerinfo_array);
 $mainDB->breakMysql();
 $mainDB->clean_result();
 
+//test git function
 ?>
